@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+nltk
+spacy
+matplotlib
+streamlit
+transformers
+torch
+datasets
+
+
